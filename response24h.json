@@ -1,0 +1,3170 @@
+[
+    {
+        "counterValue": {
+            "N": "2428"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732037858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2487"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732038158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2547"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732038458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2586"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732038759"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2645"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732039058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2674"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732039358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2722"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732039658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2753"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732039959"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2807"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732040258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2852"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732040558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2899"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732040858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2936"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732041158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "2971"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732041458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3008"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732041758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3029"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732042059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3063"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732042358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3080"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732042658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3104"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732042958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3130"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732043259"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3152"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732043558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3177"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732043858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3205"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732044158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3224"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732044458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3247"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732044758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3266"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732045059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3274"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732045359"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3293"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732045658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3296"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732045958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3315"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732046258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3318"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732046559"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3331"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732046858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3337"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732047158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3340"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732047459"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3340"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732047759"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3344"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732048058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3344"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732048358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3347"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732048658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3348"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732048959"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3350"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732049258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3354"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732049558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3354"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732049858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3355"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732050159"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3355"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732050458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3356"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732050758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3357"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732051059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3357"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732051358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3358"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732051658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3360"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732051958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3360"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732052259"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3361"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732052558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3363"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732052858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3364"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732053158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3367"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732053459"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732053758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732054058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732054358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732054658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732054958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732055258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732055558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732055859"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732056158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732056458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732056758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732057059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732057358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732057658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732057958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732058259"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732058558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732058858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732059158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732059459"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732059758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732060058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732060358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732060658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732060958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732061258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732061558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732061858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732062159"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732062458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732062758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732063058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732063359"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732063658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732063958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732064258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732064559"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732064858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732065159"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732065458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732065758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732066059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732066358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732066658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732066959"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732067258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732067558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732067859"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732068158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "3"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732068458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "4"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732068759"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732069058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732069358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732069659"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732069958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732070258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732070559"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732070858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732071158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732071459"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732071758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732072058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732072358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732072659"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732072958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "5"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732073258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "6"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732073558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "7"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732073858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "8"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732074158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "9"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732074458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "11"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732074759"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "13"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732075058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "17"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732075358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "22"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732075658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "24"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732075958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "30"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732076258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "37"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732076558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "55"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732076859"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "59"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732077158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "63"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732077458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "78"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732077759"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "84"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732078058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "95"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732078358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "100"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732078658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "111"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732078959"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "116"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732079258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "124"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732079558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "137"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732079858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "148"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732080159"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "157"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732080458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "166"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732080758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "174"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732081059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "182"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732081358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "194"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732081658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "202"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732081958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "211"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732082259"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "220"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732082558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "228"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732082858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "233"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732083158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "244"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732083459"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "248"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732083758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "257"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732084058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "270"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732084358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "279"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732084658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "293"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732084958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "300"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732085258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "318"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732085558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "331"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732085859"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "344"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732086158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "359"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732086458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "376"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732086759"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "390"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732087059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "413"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732087358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "433"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732087658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "456"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732087958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "478"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732088259"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "488"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732088558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "514"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732088858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "537"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732089159"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "569"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732089458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "599"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732089758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "624"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732090058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "645"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732090358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "674"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732090659"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "691"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732090958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "708"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732091258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "721"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732091559"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "741"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732091858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "763"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732092158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "778"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732092458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "796"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732092758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "816"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732093058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "830"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732093358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "836"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732093658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "843"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732093958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "854"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732094258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "860"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732094558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "873"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732094858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "883"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732095158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "889"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732095458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "900"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732095758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "907"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732096058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "918"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732096359"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "927"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732096658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "937"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732096958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "945"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732097258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "951"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732097559"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "960"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732097858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "962"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732098158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "969"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732098458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "971"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732098759"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "974"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732099058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "981"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732099358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "987"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732099658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "992"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732099958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "999"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732100258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1006"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732100558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1010"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732100858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1015"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732101159"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1020"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732101458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1028"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732101758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1037"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732102059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1046"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732102359"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1052"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732102658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1056"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732102958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1067"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732103258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1061"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732103558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1075"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732103858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1080"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732104159"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1085"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732104459"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1090"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732104758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1095"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732105058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1100"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732105358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1111"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732105659"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1118"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732105958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1122"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732106258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1129"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732106559"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1135"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732106859"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1140"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732107158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1142"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732107458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1147"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732107759"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1151"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732108059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1160"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732108358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1164"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732108658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1172"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732108958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1177"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732109259"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1188"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732109558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1191"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732109858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1197"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732110159"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1203"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732110458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1208"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732110758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1211"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732111058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1215"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732111359"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1218"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732111658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1221"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732111958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1222"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732112259"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1224"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732112559"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1225"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732112858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1229"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732113158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1230"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732113458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1231"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732113759"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1234"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732114059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1239"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732114358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1237"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732114658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1242"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732114958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1242"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732115258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1243"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732115558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1244"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732115858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1245"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732116159"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1247"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732116458"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1245"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732116758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1247"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732117058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1251"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732117359"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1254"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732117658"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1254"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732117958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1257"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732118258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1260"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732118558"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1265"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732118858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1267"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732119158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1275"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732119459"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1304"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732119758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1337"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732120058"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1368"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732120359"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1408"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732120659"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1435"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732120958"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1447"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732121258"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1487"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732121559"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1527"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732121858"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1582"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732122158"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1617"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732122459"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1658"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732122758"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1689"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732123059"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1724"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732123358"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1753"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732123659"
+        }
+    },
+    {
+        "counterValue": {
+            "N": "1788"
+        },
+        "recordType": {
+            "S": "cV"
+        },
+        "timestamp": {
+            "N": "1732123958"
+        }
+    }
+]
